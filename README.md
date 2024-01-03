@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Yoxiro
-- 👀 I’m interested in artificial intelligence, machine learning and deep learning
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in cellular automata
+- 🌱 I’m currently learning Computational Neuroscience
+- Email: yukinoyou@outlook.com
 
 <!---
 Yoxiro/Yoxiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
